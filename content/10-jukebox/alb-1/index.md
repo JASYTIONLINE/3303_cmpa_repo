@@ -81,3 +81,4 @@ Listen while studying the **Motivational Theories** section in this category.
 ## Quick Links
 1. [Interactive Glossary](00-welcome/9-glossary.md)
 2. [Site Map](00-welcome/10-site-map.md)
+3. [Home Page](index.md)
