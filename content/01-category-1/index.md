@@ -29,5 +29,5 @@ shortcode: "[idx]"
 5. [Category 3](03-category-3/index.md)
 6. [Category 4](04-category-4/index.md)
 7. [Category 5](05-category-5/index.md)
-8. [Jukebox](index1.md)
+8. [Jukebox](10-jukebox/index.md)
 

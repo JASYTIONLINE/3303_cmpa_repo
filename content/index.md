@@ -76,7 +76,7 @@ Every PMI term, every acronym, every concept—explained in plain English and li
 - 3. [Case Review - Project Pass PMP](02-category-2/index.md)
 - 4. [Go Through the Lore Door](03-category-3/index.md)
 - 5. [Explore Your Bonus Material](04-category-4/index.md)
-- 6. [Listen to The Music of PMP](index1.md)
+- 6. [Listen to The Music of PMP](10-jukebox/index.md)
 
 
 
