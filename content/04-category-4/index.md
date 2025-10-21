@@ -1,15 +1,11 @@
 ---
-title: 02. Case Study - Project Pass PMP
-description: Step inside the making of Project PASS PMP — a full project life cycle told through real plans, risks, and decisions.
+title: 04. Category 24
+description: Category 4 Description
 tags:
-  - case-study
-  - pmp
-  - eco
   - workbook-v3-2
 draft: false
-date: 2025-10-17
-shortcode: "[idx]"
 enableToc: true
+shortcode: "[idx]"
 ---
 ###### [[#Section Contents|Navigation Section]]
 # Category 4 Home

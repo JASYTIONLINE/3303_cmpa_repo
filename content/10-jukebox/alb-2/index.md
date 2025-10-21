@@ -1,5 +1,5 @@
 ---
-title: Album 1
+title: Album 2
 description: Seven motivational models turned into memorable study tracks for the PMP exam.
 tags:
 draft: false

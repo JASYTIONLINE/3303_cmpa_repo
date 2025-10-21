@@ -1,6 +1,6 @@
 ---
-title: index
-description: A collection of PMP-themed study songs covering key processes and formulas.
+title: The Jukebox - Home
+description: A collection of Content themed study songs covering concepts and ideas
 draft: false
 tags:
 enableToc: true
